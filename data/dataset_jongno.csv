@@ -1,4 +1,4 @@
-﻿일시,풍향,PM10,교통량,기온,강수량,풍속,습도,증기압,이슬점온도,현지기압,해면기압,일조,일사,적설,전운량,시정,지면온도,월
+﻿datetime,wind_direction,pm10,traffic,temperature,precipitation,wind_speed,humidity,vapor_pressure,dew_point_temperature,atmospheric_pressure,sea_level_pressure,sunshine,solar_radiation,snowfall,cloud_cover,visibility,ground_surface_temperature,month
 2016-01-01 04:00:00,70,70,1233,-2.9,0,1.9,90,4.4,-4.3,1022,1033.1,0,0,0,0,400,-1.2,01
 2016-01-01 05:00:00,90,71,1138,-3.2,0,2,92,4.4,-4.3,1021.9,1033,0,0,0,2,400,-1.2,01
 2016-01-01 12:00:00,140,125,3062,2.2,0,1.9,66,4.7,-3.5,1021.4,1032.3,0.1,0.68,0,9,600,1.1,01
