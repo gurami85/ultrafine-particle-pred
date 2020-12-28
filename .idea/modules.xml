@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../kepri/.idea/kepri.iml" filepath="$PROJECT_DIR$/../kepri/.idea/kepri.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../kepri-somas/.idea/kepri-somas.iml" filepath="$PROJECT_DIR$/../kepri-somas/.idea/kepri-somas.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ppm/.idea/ppm.iml" filepath="$PROJECT_DIR$/../ppm/.idea/ppm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../practice/.idea/practice.iml" filepath="$PROJECT_DIR$/../practice/.idea/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ultrafine-particle-pred.iml" filepath="$PROJECT_DIR$/.idea/ultrafine-particle-pred.iml" />
