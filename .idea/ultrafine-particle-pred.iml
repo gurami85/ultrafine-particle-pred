@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="kepri" />
     <orderEntry type="module" module-name="ppm" />
     <orderEntry type="module" module-name="practice" />
+    <orderEntry type="module" module-name="dual-imput" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

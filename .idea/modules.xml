@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dual-imput/.idea/dual-imput.iml" filepath="$PROJECT_DIR$/../dual-imput/.idea/dual-imput.iml" />
       <module fileurl="file://$PROJECT_DIR$/../kepri/.idea/kepri.iml" filepath="$PROJECT_DIR$/../kepri/.idea/kepri.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ppm/.idea/ppm.iml" filepath="$PROJECT_DIR$/../ppm/.idea/ppm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../practice/.idea/practice.iml" filepath="$PROJECT_DIR$/../practice/.idea/practice.iml" />
