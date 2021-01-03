@@ -18,7 +18,7 @@ def parser(x):
 
 
 # read the data
-df = pd.read_csv('data/dataset_jongno_refined.csv.csv', parse_dates=[0], date_parser=parser)
+df = pd.read_csv('data/dataset_jongno_refined.csv', parse_dates=[0], date_parser=parser)
 
 df.index = df.datetime
 
