@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../dual-imput" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kepri-somas" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../ppm" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../practice" vcs="Git" />
   </component>

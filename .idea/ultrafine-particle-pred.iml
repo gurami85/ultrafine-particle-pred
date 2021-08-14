@@ -2,12 +2,14 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.7 (pytorch)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="kepri" />
     <orderEntry type="module" module-name="ppm" />
     <orderEntry type="module" module-name="practice" />
     <orderEntry type="module" module-name="dual-imput" />
+    <orderEntry type="module" module-name="kepri-somas" />
+    <orderEntry type="module" module-name="kepri-somas" />
+    <orderEntry type="module" module-name="kepri-somas" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
